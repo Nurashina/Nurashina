@@ -14,7 +14,7 @@
 
 ###
 
-<p align="left">I'm Nurashina binti Abdul Rahman from Perak, Malaysia<br><br>- 🔭 I worked as Chemist Researcher<br>- 📚 I'm currently pivoting my career from a Chemist to Data Analyst.</p>
+<p align="left">👋 Hi there! I’m a chemist with a passion for data analysis. I hold a Google Data Analytics Certificate and am currently seeking an entry-level data analyst position.<br><br>🔬 Background:<br>I have a solid foundation in chemistry with experience in laboratory research and data interpretation. My transition into data analytics allows me to leverage my analytical skills in new and exciting ways.<br><br>📊 Skills and Expertise:<br><br>* Programming Languages:  R<br>* Data Analysis Tools: SQL, Excel, <br>* Data Visualization: Tableau, ggplot.<br><br>🎯 Career Goals:<br>I am actively seeking an entry-level data analyst position where I can apply my analytical skills and knowledge to real-world data problems. My aim is to contribute to a dynamic team and grow my expertise in data analytics.<br><br>🌐 Connect with Me:<br>Feel free to explore my repositories, connect with me on LinkedIn, or reach out for collaboration opportunities.</p>
 
 ###
 
@@ -26,70 +26,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="microsoftsqlserver logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" height="40" alt="rstudio logo"  />
-</div>
-
-###
-
-<h3 align="left">🔥   My Stats :</h3>
-
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Nurashina&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
-
-###
-
-<div align="center">
-  <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
-</div>
-
-###
-
-<div align="center">
-  <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/Nurashina/count.svg?"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/Nurashina/count.svg?"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/Nurashina/count.svg?"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/Nurashina/count.svg?"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/Nurashina/count.svg?"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/Nurashina/count.svg?"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/Nurashina/count.svg?"  />
 </div>
 
 ###
